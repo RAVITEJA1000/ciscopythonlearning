@@ -1,0 +1,2 @@
+List: ['raviteja', 'is', 'a', 'good', 'boy']
+Tuple: ['RAVITEJA', 'IS', 'A', 'GOOD', 'BOY']
